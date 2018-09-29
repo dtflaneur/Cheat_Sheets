@@ -1,24 +1,28 @@
-# Machine Learning cheatsheets for Stanford's CS 229
-## Goal
-This repository aims at summing up in the same place all the important notions that are covered in Stanford's CS 229 Machine Learning course, and include:
-- **Refreshers** in related topics that highlight the key points of the **prerequisites of the course**.
-- **Cheatsheets for each machine learning field**, as well as another dedicated to tips and tricks to have in mind when training a model.
-- All elements of the above combined in an **ultimate compilation of concepts**, to have with you at all times!
+# cheatsheets-ai
 
-## Content
-#### VIP Cheatsheets
-<a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/cheatsheet-supervised-learning.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-supervised-learning.png?" alt="Illustration" width="220px"/></a><a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/cheatsheet-unsupervised-learning.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-unsupervised-learning.png" alt="Illustration" width="220px"/></a><a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/cheatsheet-deep-learning.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-deep-learning.png" alt="Illustration" width="220px"/></a><a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/cheatsheet-machine-learning-tips-and-tricks.pdf"><img src="https://stanford.edu/~shervine/images/vip-cheatsheet-machine-learning-tricks.png" alt="Illustration" width="220px"/></a>
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; Supervised Learning &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Unsupervised Learning &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Deep Learning &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Tips and tricks
-
-#### VIP Refreshers
-<a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/refresher-probabilities-statistics.pdf"><img src="https://stanford.edu/~shervine/images/vip-refresher-probabilities-and-statistics.png" alt="Illustration" width="220px"/></a><a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/refresher-algebra-calculus.pdf"><img src="https://stanford.edu/~shervine/images/vip-refresher-linear-algebra-and-calculus.png#1" alt="Illustration" width="220px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; Probabilities and Statistics &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Algebra and Calculus
-
-
-#### Super VIP Cheatsheet
-<a href="https://github.com/afshinea/stanford-cs-229-machine-learning/blob/master/super-cheatsheet-machine-learning.pdf"><img src="https://stanford.edu/~shervine/images/super-vip-cheatsheet.png" alt="Illustration" width="400px"/></a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; All the above gathered in one place
-
-## Website
-This material is also available on a dedicated [website](https://stanford.edu/~shervine/teaching/cs-229.html), so that you can enjoy reading it from any device.
-
-## Authors
-Afshine Amidi (Ecole Centrale Paris, MIT) and Shervine Amidi (Ecole Centrale Paris, Stanford University)
+Essential Cheat Sheets for deep learning and machine learning researchers
+    
+  - [**Tensorflow**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/PDFs/Tensorflow.pdf)<br>
+  - [**Keras**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Keras.jpg)<br>
+  - [**Neural Networks Zoo**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Neural%20Networks%20Zoo.png)<br>
+  - [**Numpy**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Numpy.png)<br>
+  - [**Scipy**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Scipy.png)<br>
+  - [**Pandas-1**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Pandas-1.jpg)<br>
+  - [**Pandas-2**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Pandas-2.jpg)<br>
+  - [**Pandas-3**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Pandas-3.png)<br>
+  - [**Scikit-learn**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Scikit%20Learn.png)<br>
+  - [**Matplotlib**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Matplotlib.png)<br>
+  - [**ggplot2-1**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/ggplot2-1.jpg)<br>
+  - [**ggplot2-2**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/ggplot2-2.jpg)<br>
+  - [**PySpark**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/PySpark.jpg)<br>
+  - [**PySpark-RDD**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/PySpark-RDD.png)<br>
+  - [**PySpark-SQL**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/PySpark-SQL.png)<br>
+  - [**R Studio(dplyr & tidyr)-1**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Data%20Wrangling%20with%20dplyr%20and%20tidyr%20-%20R%20Studio-1.jpg)<br>
+  - [**R Studio(dplyr & tidyr)-2**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Data%20Wrangling%20with%20dplyr%20and%20tidyr%20-%20R%20Studio-2.jpg)<br>
+  - [**Neural Network Cells**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Neural%20Network%20Cells.png)<br>
+  - [**Neural Network Graphs**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Neural%20Network%20Graphs.png)<br>
+  - [**Deep Learning Cheat Sheet**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/Deep%20Learning%20Cheat%20Sheet-Hacker%20Noon.pdf)<br>
+  - [**All Cheat Sheets(PDF)**](https://github.com/kailashahirwar/cheatsheets-ai/blob/master/All%20Cheat%20Sheets.pdf)<br>
+  
+[**https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5**](https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
+  
